@@ -21,10 +21,12 @@ font-weight: 500;
 width: 100%;
 }
 
-  #nav li a{display: inline;
+  #nav li {display: inline;
   	padding: 10px;
   	float: right;
-  text-decoration: none;}
+  }
+
+a {text-decoration: none;}
 
   	#home{
   	float: left;
