@@ -19,11 +19,12 @@ font-size: 12px;
 font-weight: 500;
   height: 30px;
 width: 100%;
-text-decoration: none;}
+}
 
   #nav li{display: inline;
   	padding: 10px;
-  	float: right;}
+  	float: right;
+  text-decoration: none;}
 
   	#home{
   	float: left;
