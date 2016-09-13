@@ -6,6 +6,7 @@ html{background-color: #c6f1db;
 	color: #3a1425;
 font-family: Futura, sans-serif;}
 
+
 #nav { list-style: none;
   background-color: #3a1425;
   color: #c6f1db;
@@ -31,7 +32,7 @@ color: #c6f1db}
 
   	#home{
   	float: left;
-  	padding-bottom: -40px;}
+  	padding: auto;}
 
 .title{
     border-bottom: 1px solid #3a1425;
