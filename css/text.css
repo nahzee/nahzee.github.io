@@ -18,7 +18,8 @@ font-family: Futura, sans-serif;
 font-size: 12px;
 font-weight: 500;
   height: 30px;
-width: 100%;}
+width: 100%;
+text-decoration-line: none;}
 
   #nav li{display: inline;
   	padding: 10px;
