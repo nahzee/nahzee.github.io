@@ -32,7 +32,8 @@ color: #c6f1db}
 
   	#home{
   	float: left;
-  	padding: 0;}
+  	padding: 0;
+    margin:0;}
 
 .title{
     border-bottom: 1px solid #3a1425;
