@@ -35,6 +35,9 @@ color: #c6f1db}
   	padding: 0;
     margin:0;}
 
+    a.class1 {color:red;}
+a.class1:link  {text-decoration: none; color: red;}
+
 .title{
     border-bottom: 1px solid #3a1425;
 padding-bottom: 10px;}
