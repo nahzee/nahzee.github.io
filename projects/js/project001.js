@@ -1,5 +1,4 @@
-$(function() {
-
+$(document).ready(function() {
   setInterval(function() {
     var seconds = new Date().getSeconds();
     var sdegree = seconds * 6;
