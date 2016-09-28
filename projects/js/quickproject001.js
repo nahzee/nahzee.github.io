@@ -1,24 +1,24 @@
 $(document).ready(function() {
 
  setInterval(function() {
-    if (timer.minutes < 15) {
+    if (timer.seconds < 15) {
       tickTock1();getRed();
-    }  if (timer.minutes > 15) {
+    }  if (timer.seconds > 15) {
       tickTock1(getBig());getRedder();
-    }  if (timer.minutes > 20) {
+    }  if (timer.seconds > 20) {
       tickTock1(getBigger());andMoreRedder();
-    }  if (timer.minutes > 30) {
+    }  if (timer.seconds > 30) {
       tickTock1(getBiggerThanThat());andEvenMoreRedder();
-    }  if (timer.minutes > 40) {
+    }  if (timer.seconds > 40) {
       tickTock1(getEvenMoreBigger());andEvenMoreRedder();
-    }  if (timer.minutes > 50) {
+    }  if (timer.seconds > 50) {
       tickTock1(getWayBigger());JustgoFullRed();
     } else {
       ;
     }
   }, 1000);
 
- fadeRed()
+fadeRed()
 
 //clock
  setInterval(function() {
@@ -73,7 +73,7 @@ function getRed() {
 
 
 function fadeRed() {
-  $('#red2').fadeTo(3600000, 1, function() {
+  $('#red2').fadeTo(60000, 1, function() {
     // Animation complete.
   })};
   
