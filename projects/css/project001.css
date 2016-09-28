@@ -85,6 +85,7 @@ html {
   position: absolute;
   display: none;
   z-index: 25;
+  font-size: 20px;
 }
 
 #tick-1 {
@@ -120,11 +121,10 @@ html {
 #tick-4 {
   top: 60px;
   left: 100px;
-  font-size: 300px;
+ 
 }
 
 #tock-4 {
   top: 400px;
   left: 300px;
-  font-size: 300px;
 }

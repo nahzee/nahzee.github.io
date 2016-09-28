@@ -1,5 +1,17 @@
 $(document).ready(function() {
-  setInterval(function() {
+
+ setInterval(function() {
+    if (timer.minutes > 15) {
+      tickTock1();fadeRed();
+    }  if (timer.minutes > 20) {
+      tickTock1(getBig());fadeRed();
+    } else {
+      fadeRed();
+    }
+  }, 1000);
+
+//clock
+ setInterval(function() {
     var seconds = new Date().getSeconds();
     var sdegree = seconds * 6;
     var srotate = "rotate(" + sdegree + "deg)";
@@ -22,29 +34,25 @@ $(document).ready(function() {
 
   }, 1000);
 
-  setInterval(function() {
-
-  }, 1000);
-  setInterval(function() {
-
-    fadeRed();
-
-  }, 1000);
-
-})
 
 
-fadeRed();
+
+
+
+
 
 function fadeRed() {
   $('#red').fadeTo(10000, 1, function() {
     // Animation complete.
-  });
+  })};
+  
+  function getBig() {
+  $('.ticktock').css("font-size", "40px")};
 
-  blinkBoxes();
+
 
   // Show the animals
-  function blinkBoxes() {
+  function tickTock1() {
 
     // Blinking effects
     $("#tick-1").delay(1000).fadeIn(100).delay(1000).fadeOut(100);
@@ -59,9 +67,6 @@ function fadeRed() {
 
     // Run the blinkBoxes function after 5 seconds, creating an infinte loop of itself
     setTimeout(function() {
-      blinkBoxes();
-    }, 1000)
-
-  }
-
-};
+      tickTock1();
+    }, 1000)};
+})
