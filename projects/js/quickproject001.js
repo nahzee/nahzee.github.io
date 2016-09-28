@@ -2,13 +2,13 @@ $(document).ready(function() {
 
  setInterval(function() {
     if (timer.seconds < 15) {
-      tickTock1();getRed();
+      tickTock1();
     }  if (timer.seconds > 15) {
-      tickTock1(getBig());getRedder();
+      tickTock1(getBig());getRed();
     }  if (timer.seconds > 20) {
-      tickTock1(getBigger());andMoreRedder();
+      tickTock1(getBigger());getRedder();
     }  if (timer.seconds > 30) {
-      tickTock1(getBiggerThanThat());andEvenMoreRedder();
+      tickTock1(getBiggerThanThat());andMoreRedder();
     }  if (timer.seconds > 40) {
       tickTock1(getEvenMoreBigger());andEvenMoreRedder();
     }  if (timer.seconds > 50) {
