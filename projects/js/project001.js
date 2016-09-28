@@ -2,7 +2,7 @@ $(document).ready(function() {
 
  setInterval(function() {
     if (timer.minutes < 15) {
-      tickTock1();();
+      tickTock1();
     }  if (timer.minutes > 15) {
       tickTock1(getBig());getRed();
     }  if (timer.minutes > 20) {
