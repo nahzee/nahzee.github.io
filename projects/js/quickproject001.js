@@ -52,22 +52,22 @@ function getRed() {
   })};
 
    function nnoRed() {
-  $('#red').animate({opacity: "0"}, 1500)};
+  $('#red').css("opacity", "0")};
 
  function getRed() {
-  $('#red')..animate({opacity: "0.2"}), 1500};
+  $('#red').css("opacity", ".2")};
 
  function getRedder() {
-  $('#red').animate({opacity: "0.4"}), 1500};
+  $('#red').css("opacity", ".4")};
 
  function andMoreRedder() {
-  $('#red').animate({opacity: "0.6"}), 1500};
+  $('#red').css("opacity", ".6")};
 
  function andEvenMoreRedder() {
-  $('#red').animate({opacity: "0.8"}), 1500};
+  $('#red').css("opacity", ".8")};
 
  function JustgoFullRed() {
-  $('#red').animate({opacity: "1"}), 1500};
+  $('#red').css("opacity", "1")};
 
 
 
