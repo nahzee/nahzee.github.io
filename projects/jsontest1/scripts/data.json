@@ -1,5 +1,6 @@
 [
     {
+        "timestamp": "2016-10-20T04:00:53.557Z",
         "name": "Jonny",
         "iveNeverSinceIGotHere": "Went to a club",
         "oneCoolPlaceIWantedCheckOut": "Cobo hall",
@@ -12,8 +13,7 @@
         "shareASocialLink": "nahxiii",
         "willingToMeetNewPeopleStrangers": "Yes",
         "thingYouWantToDoanswer": "Skydive",
-        "typetag": "adventurer",
-        "whatsYourFavoriteFood": "eggs"
+        "typetag": "adventurer"
     },
     {
         "name": "Yahong ",
@@ -25,8 +25,7 @@
         "shareASocialLink": "pillsi",
         "willingToMeetNewPeopleStrangers": "Yes",
         "thingYouWantToDoanswer": "Traveling aboard",
-        "typetag": "foodie",
-        "whatsYourFavoriteFood": "carrots"
+        "typetag": "foodie"
     },
     {
         "name": "XiaoYou ",
@@ -38,8 +37,7 @@
         "shareASocialLink": "wxid_262224622112",
         "willingToMeetNewPeopleStrangers": "Yes",
         "thingYouWantToDoanswer": "Shooting, skydive",
-        "typetag": "foodie",
-        "whatsYourFavoriteFood": "bacon"
+        "typetag": "adventurer"
     },
     {
         "name": "Wong ",
@@ -99,7 +97,7 @@
         "shareASocialLink": "tom952566",
         "willingToMeetNewPeopleStrangers": "Yes",
         "thingYouWantToDoanswer": "Racing in vegas in Lambogini",
-        "typetag": "Racing in vegas in Lambogini"
+        "typetag": "adventurer"
     },
     {
         "name": "Zhaolewei",
@@ -171,7 +169,7 @@
         "shareASocialLink": "Jason_chen_hao",
         "willingToMeetNewPeopleStrangers": "Yes",
         "thingYouWantToDoanswer": "I want to do Kayaking",
-        "typetag": "Kayaking"
+        "typetag": "adventurer"
     },
     {
         "name": "hxl",
@@ -179,7 +177,7 @@
         "age": 23,
         "foreignWhereDidYouComeFrom": "China ",
         "school": "Wayne State University",
-        "socialLinkFrom": "Wechat ",
+        "socialLinkFrom": " Wechat",
         "shareASocialLink": "hxl328128766",
         "willingToMeetNewPeopleStrangers": "Yes",
         "thingYouWantToDoanswer": "To make foreign friends",
@@ -232,5 +230,670 @@
         "willingToMeetNewPeopleStrangers": "Yes",
         "thingYouWantToDoanswer": "Skydive",
         "typetag": "Skydive"
+    },
+    {
+        "name": "Terri",
+        "oneCoolPlaceIWantedCheckOut": "Casino",
+        "age": 23,
+        "foreignWhereDidYouComeFrom": "China ",
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "typetag": "Fishing "
+    },
+    {
+        "name": "Sophia",
+        "oneCoolPlaceIWantedCheckOut": "Manistee",
+        "age": 28,
+        "foreignWhereDidYouComeFrom": "China ",
+        "school": "Wayne State University",
+        "socialLinkFrom": " ",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "I like to be on a boat and fishing ",
+        "typetag": "Fishing "
+    },
+    {
+        "name": "Emma",
+        "oneCoolPlaceIWantedCheckOut": "Manistee",
+        "age": 28,
+        "foreignWhereDidYouComeFrom": "China ",
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "met more friends who like to fishing ",
+        "typetag": "Fishing "
+    },
+    {
+        "name": "Isla",
+        "oneCoolPlaceIWantedCheckOut": "Higgin Lake",
+        "age": 29,
+        "foreignWhereDidYouComeFrom": "China ",
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Fishing ",
+        "typetag": "Fishing "
+    },
+    {
+        "name": "Katherine",
+        "oneCoolPlaceIWantedCheckOut": "Lake Gogebic",
+        "age": 23,
+        "foreignWhereDidYouComeFrom": "Italy",
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Fishing ",
+        "typetag": "Fishing "
+    },
+    {
+        "name": "Kinsley",
+        "oneCoolPlaceIWantedCheckOut": "Houghton Lake",
+        "age": 26,
+        "foreignWhereDidYouComeFrom": "Japanese",
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "I enjoy ocean and fishing ",
+        "typetag": "Fishing "
+    },
+    {
+        "name": "Eva Lee",
+        "oneCoolPlaceIWantedCheckOut": "Little Bay de Noc ",
+        "age": 27,
+        "foreignWhereDidYouComeFrom": "Japanese",
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Fishing ",
+        "typetag": "Fishing "
+    },
+    {
+        "name": "Vivian",
+        "oneCoolPlaceIWantedCheckOut": "Higgin Lake",
+        "age": 28,
+        "foreignWhereDidYouComeFrom": "Italy",
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Good view and fishing ",
+        "typetag": "Fishing "
+    },
+    {
+        "name": "Claire",
+        "oneCoolPlaceIWantedCheckOut": "Manistee",
+        "age": 30,
+        "foreignWhereDidYouComeFrom": "Italy",
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Fishing ",
+        "typetag": "Fishing "
+    },
+    {
+        "name": "Victoria",
+        "oneCoolPlaceIWantedCheckOut": "Manistee",
+        "age": 32,
+        "foreignWhereDidYouComeFrom": "Japanese",
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Fishing ",
+        "typetag": "Fishing "
+    },
+    {
+        "name": "Kaitlyn",
+        "oneCoolPlaceIWantedCheckOut": "Saginaw",
+        "age": 32,
+        "foreignWhereDidYouComeFrom": "Japanese",
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Fishing  & Beer",
+        "typetag": "Fishing "
+    },
+    {
+        "name": "Makayla",
+        "oneCoolPlaceIWantedCheckOut": "Isle Royale",
+        "age": 28,
+        "foreignWhereDidYouComeFrom": "China ",
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Fishing ",
+        "typetag": "Fishing "
+    },
+    {
+        "name": "Natalie",
+        "oneCoolPlaceIWantedCheckOut": "Lake side fishing ",
+        "age": 30,
+        "foreignWhereDidYouComeFrom": "China ",
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Fishing ",
+        "typetag": "Fishing "
+    },
+    {
+        "name": "Maya",
+        "oneCoolPlaceIWantedCheckOut": "New York City",
+        "age": 21,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Learn Watercolor"
+    },
+    {
+        "name": "Lillian",
+        "oneCoolPlaceIWantedCheckOut": "China",
+        "age": 23,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "I want to learn illstration "
+    },
+    {
+        "name": "Grace",
+        "oneCoolPlaceIWantedCheckOut": "Grand Canyon",
+        "age": 23,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Beads Making "
+    },
+    {
+        "name": "joe",
+        "oneCoolPlaceIWantedCheckOut": "China",
+        "age": 23,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Making bead earings"
+    },
+    {
+        "name": "Anna",
+        "oneCoolPlaceIWantedCheckOut": "New York City",
+        "age": 23,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Homemade soap"
+    },
+    {
+        "name": "joy",
+        "oneCoolPlaceIWantedCheckOut": "Grand Canyon",
+        "age": 24,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "DIY soap"
+    },
+    {
+        "name": "Li Wen ",
+        "oneCoolPlaceIWantedCheckOut": "New York City",
+        "age": 23,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Homemade Candle "
+    },
+    {
+        "name": "Hao Chi",
+        "oneCoolPlaceIWantedCheckOut": "North Kroen ;)",
+        "age": 22,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "I want to met a group of photographer"
+    },
+    {
+        "name": "Lu Lu ",
+        "oneCoolPlaceIWantedCheckOut": "Rome",
+        "age": 21,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "photographer"
+    },
+    {
+        "name": "Anna",
+        "oneCoolPlaceIWantedCheckOut": "yellow stone ",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Freelance photographer"
+    },
+    {
+        "name": "Jacob",
+        "oneCoolPlaceIWantedCheckOut": "vagas",
+        "age": 34,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "food and alcoholic "
+    },
+    {
+        "name": "Shawn Liu",
+        "oneCoolPlaceIWantedCheckOut": "yellow stone",
+        "age": 32,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "I want to try different restrant with friends"
+    },
+    {
+        "name": "kevin",
+        "oneCoolPlaceIWantedCheckOut": "las vagas",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "food and alcoholic "
+    },
+    {
+        "name": "Luke",
+        "oneCoolPlaceIWantedCheckOut": "Hong Kong",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "some food and good game "
+    },
+    {
+        "name": "Will Liu",
+        "oneCoolPlaceIWantedCheckOut": "Hong Kong",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "out for dinnder?"
+    },
+    {
+        "name": "Andrew",
+        "oneCoolPlaceIWantedCheckOut": "New York City",
+        "age": 22,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "bugger lover "
+    },
+    {
+        "name": "Ali Lu",
+        "oneCoolPlaceIWantedCheckOut": "Hong Kong",
+        "age": 22,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "food and drink "
+    },
+    {
+        "name": "Logan Shang ",
+        "oneCoolPlaceIWantedCheckOut": "Grand Canyon",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "steak steak steak "
+    },
+    {
+        "name": "Zayn",
+        "oneCoolPlaceIWantedCheckOut": "Rome",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "try different restrant in detroit "
+    },
+    {
+        "name": "Jason",
+        "oneCoolPlaceIWantedCheckOut": "Grand Canyon",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "food and drink "
+    },
+    {
+        "name": "Mia Ling",
+        "oneCoolPlaceIWantedCheckOut": "Adventure Park",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "food!"
+    },
+    {
+        "name": "Leah ",
+        "oneCoolPlaceIWantedCheckOut": "New York City",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": " wine tasting"
+    },
+    {
+        "name": "Skyler B.",
+        "oneCoolPlaceIWantedCheckOut": "Rome",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "food and drink"
+    },
+    {
+        "name": "Suki",
+        "oneCoolPlaceIWantedCheckOut": "Grand Canyon",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": " wine tasting"
+    },
+    {
+        "name": "Stella",
+        "oneCoolPlaceIWantedCheckOut": "Rome",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": " wine tasting"
+    },
+    {
+        "name": "Alice",
+        "oneCoolPlaceIWantedCheckOut": "Adventure Park",
+        "age": 23,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": " wine tasting"
+    },
+    {
+        "name": "Vivian ",
+        "oneCoolPlaceIWantedCheckOut": "San Francisco",
+        "age": 23,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "food fads but health and nutritio"
+    },
+    {
+        "name": "Reagan ",
+        "oneCoolPlaceIWantedCheckOut": "Seoul",
+        "age": 23,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "cooking classes"
+    },
+    {
+        "name": "Charlie",
+        "oneCoolPlaceIWantedCheckOut": "Seoul",
+        "age": 23,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "cooking classes"
+    },
+    {
+        "name": "Jocelyn",
+        "oneCoolPlaceIWantedCheckOut": "Singapore",
+        "age": 23,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "cooking classes"
+    },
+    {
+        "name": "Jack",
+        "oneCoolPlaceIWantedCheckOut": "San Francisco",
+        "age": 32,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "cooking classes"
+    },
+    {
+        "name": "Zayn Wang",
+        "oneCoolPlaceIWantedCheckOut": "San Francisco",
+        "age": 23,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "met more friend who is a foodie too "
+    },
+    {
+        "name": "Noah",
+        "oneCoolPlaceIWantedCheckOut": "Singapore",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Climb Sleeping Bear Dunes"
+    },
+    {
+        "name": "Max",
+        "oneCoolPlaceIWantedCheckOut": "Adventure Park",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Swim in a Great Lake"
+    },
+    {
+        "name": "Liam",
+        "oneCoolPlaceIWantedCheckOut": "Grand Canyon",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Drink and eat at Founders"
+    },
+    {
+        "name": "Ethan ",
+        "oneCoolPlaceIWantedCheckOut": "Singapore",
+        "age": 21,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Climb Sleeping Bear Dunes"
+    },
+    {
+        "name": "Jordon",
+        "oneCoolPlaceIWantedCheckOut": "Singapore",
+        "age": 21,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Drink and eat at Founders"
+    },
+    {
+        "name": "Balke",
+        "oneCoolPlaceIWantedCheckOut": "Singapore",
+        "age": 21,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Book a ticket to vagas and fly off "
+    },
+    {
+        "name": "Mia Ling",
+        "oneCoolPlaceIWantedCheckOut": "Singapore",
+        "age": 23,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Make the journey to Isle Royale"
+    },
+    {
+        "name": "Zoe ",
+        "oneCoolPlaceIWantedCheckOut": "San Francisco",
+        "age": 22,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Skydive"
+    },
+    {
+        "name": "Jo Jo",
+        "oneCoolPlaceIWantedCheckOut": "San Francisco",
+        "age": 23,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Climb Sleeping Bear Dunes"
+    },
+    {
+        "name": "Lily",
+        "oneCoolPlaceIWantedCheckOut": "San Francisco",
+        "age": 23,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Snowmobile Up North"
+    },
+    {
+        "name": "Emily",
+        "oneCoolPlaceIWantedCheckOut": "Orlando-Walt Disney World",
+        "age": 23,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Snowmobile Up North"
+    },
+    {
+        "name": "Madion ",
+        "oneCoolPlaceIWantedCheckOut": "Chicago",
+        "age": 23,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Climb Sleeping Bear Dunes"
+    },
+    {
+        "name": "Riley ",
+        "oneCoolPlaceIWantedCheckOut": "Chicago",
+        "age": 24,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "skiing"
+    },
+    {
+        "name": "Chloe",
+        "oneCoolPlaceIWantedCheckOut": "Grand Canyon",
+        "age": 23,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "skiing"
+    },
+    {
+        "name": "Ann",
+        "oneCoolPlaceIWantedCheckOut": "Chicago",
+        "age": 25,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Skydive"
+    },
+    {
+        "name": "Aria",
+        "oneCoolPlaceIWantedCheckOut": "Chicago",
+        "age": 23,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Snowmobile Up North"
+    },
+    {
+        "name": "Layla",
+        "oneCoolPlaceIWantedCheckOut": "Orlando-Walt Disney World",
+        "age": 23,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "skiing"
+    },
+    {
+        "name": "Abigail",
+        "oneCoolPlaceIWantedCheckOut": "Ann Arbor ",
+        "age": 32,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Climb a lighthouse"
+    },
+    {
+        "name": "Harper",
+        "oneCoolPlaceIWantedCheckOut": "Seoul",
+        "age": 23,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Bungee Jumping"
+    },
+    {
+        "name": "Sophia Wu",
+        "oneCoolPlaceIWantedCheckOut": "Orlando-Walt Disney World",
+        "age": 23,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Climb a tree"
+    },
+    {
+        "name": "Nora",
+        "oneCoolPlaceIWantedCheckOut": "Seoul",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Skydive"
+    },
+    {
+        "name": "Addison ",
+        "oneCoolPlaceIWantedCheckOut": "Singapore",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Bungee Jumping"
+    },
+    {
+        "name": "Isabelle",
+        "oneCoolPlaceIWantedCheckOut": "Grand Canyon",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Bungee Jumping"
+    },
+    {
+        "name": "Leah ",
+        "oneCoolPlaceIWantedCheckOut": "Kathmandu",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Bungee Jumping"
+    },
+    {
+        "name": "Sarah",
+        "oneCoolPlaceIWantedCheckOut": "Kathmandu",
+        "age": 22,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "met some dog owners"
+    },
+    {
+        "name": "Grace",
+        "oneCoolPlaceIWantedCheckOut": "Kathmandu",
+        "age": 22,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Water Skiing"
+    },
+    {
+        "name": "Kyle",
+        "oneCoolPlaceIWantedCheckOut": "Cape Town",
+        "age": 22,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "met some funny pets"
+    },
+    {
+        "name": "Dan",
+        "oneCoolPlaceIWantedCheckOut": "Welmart",
+        "age": 22,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "dog lover"
+    },
+    {
+        "name": "Daniel Wang ",
+        "oneCoolPlaceIWantedCheckOut": "Cape Town",
+        "age": 22,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "I want to travel the world and eat good food with my gf"
+    },
+    {
+        "name": "Ryan ",
+        "oneCoolPlaceIWantedCheckOut": "Hong Kong ",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Visit Paris next year"
+    },
+    {
+        "name": "Michael",
+        "oneCoolPlaceIWantedCheckOut": "Bei Jing ",
+        "age": 20,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "met some friend who want to go to Tokyo"
+    },
+    {
+        "name": "Jemes",
+        "oneCoolPlaceIWantedCheckOut": "Tokiyo",
+        "age": 20,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Travel the world "
+    },
+    {
+        "name": "Jack",
+        "oneCoolPlaceIWantedCheckOut": "Bangkok",
+        "age": 22,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Sydney"
+    },
+    {
+        "name": "Ethan Li",
+        "age": 21,
+        "school": "Wayne State University",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Travel the world "
+    },
+    {
+        "name": "Adam",
+        "oneCoolPlaceIWantedCheckOut": "Cape Town",
+        "age": 23,
+        "school": "University of Detroit Mercy",
+        "willingToMeetNewPeopleStrangers": "Yes",
+        "thingYouWantToDoanswer": "Travel the world "
     }
 ]
