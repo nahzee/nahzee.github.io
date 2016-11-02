@@ -145,6 +145,9 @@ body {
 	width: 20%;
 	height: 100%;
 	position: relative;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 #side-img3 img{
 	height: 100%;
@@ -158,6 +161,9 @@ body {
 	display: none;
 	float: left;
 	background: #FFF;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 /*----------------------------------------page1-------------------------------------------*/
 .player{
@@ -170,6 +176,9 @@ body {
  	height: 100%;
 	display: inline-block;
 	float: left;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 #main-nemu{
 	position: relative;
@@ -179,6 +188,9 @@ body {
 	width: 20%;
 	height: 100%;
 	position: relative;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 #side-img img{
 	height: 100%;
@@ -188,20 +200,32 @@ body {
 	height: 20%;
 	position: relative;
 	text-align: center;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 #Adventurer img{
 	width: 50%;
 	position: relative;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 #Foodie{
 	padding-top: 15px;
 	height: 20%;
 	position: relative;
 	text-align: center;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 #Foodie img{
 	width: 50%;
 	position: relative;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 #DogLover{
 	padding-top: 15px;
