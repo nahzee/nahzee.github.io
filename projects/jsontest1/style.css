@@ -44,7 +44,7 @@ body {
 	width: 100%;
 	position: relative;
 }
-#name img{
+#name > img{
     display: block;
     margin: auto;
     width: 80%;
