@@ -24,7 +24,11 @@ body {
   left: 0;
   background: #FFF;
 }*/
-
+#related{
+	border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
+}
 .player {
   display: none;
   width: 80%;
