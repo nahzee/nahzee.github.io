@@ -52,21 +52,27 @@ var nametag = player.nametag.replace(/\s+/g, '')
   });
 
   $("#Adventurer").click(function() {
+    $(".results").html('');
     $("#rAdventurer").show();
   });
   $("#Foodie").click(function() {
+    $(".results").html('');
     $("#rFoodie").show();
   });
   $("#Fishmen").click(function() {
+    $(".results").html('');
     $("#rFishmen").show();
   });
   $("#DogLover").click(function() {
+    $(".results").html('');
     $("#rDogLover").show();
   });
   $("#Traveler").click(function() {
+    $(".results").html('');
     $("#rTraveler").show();
   });
   $("#Artist").click(function() {
+    $(".results").html('');
     $("#rArtist").show();
   });
 });
