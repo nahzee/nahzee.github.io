@@ -54,7 +54,7 @@ body {
  	border-width: 1px;
  	border-style: solid;
 }
-#name > img{
+#name  img{
     display: block;
     margin: auto;
     width: 80%;
