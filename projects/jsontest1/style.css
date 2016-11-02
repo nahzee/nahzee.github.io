@@ -105,13 +105,13 @@ body {
 }
 /*----------------------------------------page2-------------------------------------------*/
 
-#side-img2{
+#side-img3{
 	float: left;
 	width: 20%;
 	height: 100%;
 	position: relative;
 }
-#side-img2 img{
+#side-img3 img{
 	height: 100%;
 }
 .results{
