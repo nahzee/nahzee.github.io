@@ -5,10 +5,204 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
-
 body {
- 	color: blue; 
-	font-size: px;
+ 	color: #13009a; 
+	font-size: 10px;
  	margin: 0;
- 	font-family: Arial, Sans-serif;
+	font-family: Helvetica;
+ 	text-transform: uppercase;
+ 	text-align: center;
+ 	line-height: 20px;
+}
+
+/*.results {
+  display: none;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: #FFF;
+}*/
+
+.player {
+  display: none;
+  width: 80%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background: blue;
+}
+
+#main{
+ 	max-height: 600px;
+ 	width: 250%;
+}
+#name{
+	padding-top: 25%;
+	width: 100%;
+	position: relative;
+}
+#name img{
+    display: block;
+    margin: auto;
+	width: 80%;
+}
+#fwdycf{
+	display: inline-block;
+	vertical-align: top;
+}
+#age{
+	display: inline-block;
+	vertical-align: top;
+}
+#school{
+}
+#oncpiwco{
+	padding-top: 5%;
+}
+#tywtd{
+}
+#sasl{
+	padding-top: 25%;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 5px;
+}
+.red-underline{
+	float: left;
+	width: 80%;
+	position: relative;
+	text-align: center;
+}
+.red-underline img{
+	width: 60%;
+	margin: auto;
+	display: block;
+}
+#side-img2{
+	float: left;
+	width: 20%;
+	height: 100%;
+	position: relative;
+}
+#side-img2 img{
+	height: 50%;
+}
+
+#home-sec3{
+	float: left;
+	position: relative;
+	max-width: 294px;
+ 	max-height: 598px;
+ 	width: 100%;
+ 	height: 100%;
+	display: inline-block;
+	float: expand;
+}
+/*----------------------------------------page2-------------------------------------------*/
+
+#side-img2{
+	float: left;
+	width: 20%;
+	height: 100%;
+	position: relative;
+}
+#side-img2 img{
+	height: 100%;
+}
+.results{
+	position: relative;
+	max-width: 294px;
+ 	max-height: 598px;
+ 	width: 100%;
+ 	height: 100%;
+	display: none;
+	float: left;
+	background: #FFF;
+}
+/*----------------------------------------page1-------------------------------------------*/
+.player{
+	color:black;
+}
+#home-sec{
+	max-width: 294px;
+ 	max-height: 598px;
+ 	width: 100%;
+ 	height: 100%;
+	display: inline-block;
+	float: left;
+}
+#main-nemu{
+	position: relative;
+}
+#side-img{
+	float: left;
+	width: 20%;
+	height: 100%;
+	position: relative;
+}
+#side-img img{
+	height: 100%;
+}
+#Adventurer{
+	padding-top: 15px;
+	height: 20%;
+	position: relative;
+	text-align: center;
+}
+#Adventurer img{
+	width: 50%;
+	position: relative;
+}
+#Foodie{
+	padding-top: 15px;
+	height: 20%;
+	position: relative;
+	text-align: center;
+}
+#Foodie img{
+	width: 50%;
+	position: relative;
+}
+#DogLover{
+	padding-top: 15px;
+	height: 20%;
+	position: relative;
+	text-align: center;
+}
+#DogLover img{
+	width: 50%;
+	position: relative;
+}
+#Traveler{
+	padding-top: 15px;
+	height: 20%;
+	position: relative;
+	text-align: center;
+}
+#Traveler img{
+	width: 50%;
+	position: relative;
+}
+#Fishmen{
+	padding-top: 15px;
+	height: 20%;
+	position: relative;
+	text-align: center;
+}
+#Fishmen img{
+	width: 50%;
+	position: relative;
+}
+#Artist{
+	padding-top: 15px;
+	height: 20%;
+	position: relative;
+	text-align: center;
+}
+#Artist img{
+	width: 50%;
+	position: relative;
 }
