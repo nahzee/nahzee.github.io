@@ -32,7 +32,7 @@ body {
   position: fixed;
   top: 0;
   right: 0;
-  background: blue;
+  background: white;
 }
 
 #main{
@@ -48,7 +48,8 @@ body {
     display: block;
     margin: auto;
     width: 80%;
-	max-width: 200px;
+    max-width: 200px;
+    top: 0px;
 }
 #fwdycf{
 	display: inline-block;
