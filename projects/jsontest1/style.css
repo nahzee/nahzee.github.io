@@ -25,8 +25,8 @@ body {
   background: #FFF;
 }*/
 #related{
-	border-color: pink;
- 	border-width: 1px;
+	border-color: green;
+ 	border-width: 3px;
  	border-style: solid;
 }
 .player {
