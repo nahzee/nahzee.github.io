@@ -38,11 +38,17 @@ body {
 #main{
  	max-height: 600px;
  	width: 250%;
+	border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 #name{
 	padding-top: 10%;
 	width: 100%;
 	position: relative;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 #name > img{
     display: block;
@@ -50,19 +56,31 @@ body {
     width: 80%;
     max-width: 200px;
     top: 0px;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 #fwdycf{
 	display: inline-block;
 	vertical-align: top;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 #age{
 	display: inline-block;
 	vertical-align: top;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 #school{
 }
 #oncpiwco{
 	padding-top: 5%;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 #tywtd{
 }
@@ -71,26 +89,41 @@ body {
 	font-weight: bold;
 	font-size: 12px;
 	line-height: 5px;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 .red-underline{
 	float: left;
 	width: 80%;
 	position: relative;
 	text-align: center;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 .red-underline img{
 	width: 60%;
 	margin: auto;
 	display: block;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 #side-img2{
 	float: left;
 	width: 20%;
 	height: 100%;
 	position: relative;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 #side-img2 img{
 	height: 50%;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 
 #home-sec3{
@@ -101,7 +134,9 @@ body {
  	width: 100%;
  	height: 100%;
 	display: inline-block;
-	float: expand;
+		border-color: pink;
+ 	border-width: 1px;
+ 	border-style: solid;
 }
 /*----------------------------------------page2-------------------------------------------*/
 
